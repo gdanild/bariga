@@ -1,0 +1,2 @@
+# bariga
+BTC-E BOT
